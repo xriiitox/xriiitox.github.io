@@ -5,11 +5,24 @@ html {
 
 img {
   width: 200px;
+  border-radius: 10px;
 }
 
 body {
   text-align: center;
-  font-family: 'Arial';
-  background: azure;
-  color: purple;
+  font-family: 'Courier New';
+  background: aliceblue;
+  color: teal;
+}
+
+code {
+  font-family: monospace;
+  color: white;
+  background-color: black;
+  padding: 2px;
+  font-size: 125%;
+}
+
+a {
+  color: teal !important;
 }
